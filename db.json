@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "firstName": "Shoeb",
+      "lastName": null,
+      "email": "Rohan6548454@gmail.com",
+      "mobile": "09562123344",
+      "salary": "$123322"
+    },
+    {
+      "id": 1,
+      "firstName": "Fahim",
+      "lastName": "",
+      "email": "test@gmail.com",
+      "mobile": "8425454545",
+      "salary": "2020220"
+    },
+    {
+      "id": 2,
+      "firstName": "Muzzamil",
+      "lastName": null,
+      "email": "Muzzamil@gmail",
+      "mobile": "21231312",
+      "salary": "2121212"
+    },
+    {
+      "id": 3,
+      "firstName": "Sufiyan",
+      "lastName": "Solanki",
+      "email": "sufi@gmail.com",
+      "mobile": "85215446255",
+      "salary": "1000000000000000000000000000000"
+    }
+  ]
+}
